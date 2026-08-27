@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+env/
+
+temp.jpg
+
+runs/
+
+desktop.ini
+*.cache
+**/classes.txt
